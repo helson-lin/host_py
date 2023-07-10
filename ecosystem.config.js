@@ -2,7 +2,7 @@ module.exports = {
   apps: [
     {
       name: 'hosts',
-      script: 'sudo python hosts.py',
+      script: 'sudo python main.py',
       args: ''
     }
   ]
